@@ -1,6 +1,6 @@
 # Hi, I'm Pavlos 
 
-I'm a Mechanical Engineering student at the University of Sussex, graduating in 2026. I use simulation, numerical methods, and code to solve real engineering problems — from fluid dynamics and structural analysis to dynamic systems modelling.
+I'm a Mechanical Engineering student at the University of Sussex, graduating in 2027. I use simulation, numerical methods, and code to solve real engineering problems, from fluid dynamics and structural analysis to dynamic systems modelling.
 
 This portfolio showcases projects from my degree, covering FEA, CFD, MATLAB programming, and mechanical design.
 
