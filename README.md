@@ -13,7 +13,7 @@ This portfolio showcases projects from my degree, covering FEA, CFD, MATLAB prog
 | [CFD Backward-Facing Step](https://github.com/pavlosartikis/cfd-backward-facing-step) | Turbulent flow, RANS, mesh convergence | ANSYS Fluent, MATLAB |
 | [FEA Truss & Belleville Spring](https://github.com/pavlosartikis/fea-truss-belleville-spring) | Structural FEA, spring mechanics, LU decomposition | ANSYS Mechanical, MATLAB |
 | [MATLAB Structural Analysis Suite](https://github.com/pavlosartikis/matlab-structural-analysis) | Truss solving, ODE dynamics, strain energy, regression | MATLAB |
-| [Wooden Bridge Design](https://github.com/pavlosartikis/wooden-bridge-design) | Structural optimisation, load testing, team project | SolidWorks |
+| [DFMA Bicycle Redesign](https://github.com/pavlosartikis/bicycle-dfma-redesign) | Structural optimisation, load testing, team project | SolidWorks |
 
 ---
 
